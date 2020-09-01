@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Michael Charles Aubrey github stats](https://github-readme-stats.vercel.app/api?username=mcaubrey&show_icons=true&theme=default)
+![Michael Charles Aubrey github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mcaubrey&hide=html,rich%20text%20format&layout=compact)
+
 <!--
 **mcaubrey/mcaubrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
